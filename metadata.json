@@ -1,0 +1,5 @@
+{
+  "name": "Bolera Turn Manager",
+  "description": "Sistema de gestión de turnos para bolera con gestión de tickets físicos, roles de usuario/admin y notificaciones.",
+  "requestFramePermissions": []
+}
